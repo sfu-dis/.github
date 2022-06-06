@@ -14,6 +14,7 @@ PI: [Tianzheng Wang](https://www.cs.sfu.ca/~tzwang), Assistant Professor at [SFU
 PhD Students: Tianxun Hu (since 2021) &nbsp;&mdash;&nbsp; [Kaisong Huang](https://kaisonghuang.github.io/) (since 2020) <br>
 Thesis MSc Students: George He (since 2021)  &nbsp;&mdash;&nbsp; Ziyi Yan (since 2021)  &nbsp;&mdash;&nbsp; Ge Shi (since 2021)<br>
 Visiting Students: [Baotong Lu (CUHK)](https://baotonglu.github.io/)  &nbsp;&mdash;&nbsp; [Mijin An (SKKU)](https://meeeejin.github.io/pages/about)  &nbsp;&mdash;&nbsp; Jonghyeok Park (SKKU)<br>
-Alumni: [Jianqiu Zhang (Software Engineer at ByteDance)](http://github.com/VOID001) &nbsp;&mdash;&nbsp; [Yongjun He (PhD Student at ETH Zurich)](https://yongjunhe.github.io) 
+Alumni: [Jianqiu Zhang (Software Engineer at ByteDance)](http://github.com/VOID001) &nbsp;&mdash;&nbsp; [Yongjun He (PhD Student at ETH Zurich)](https://yongjunhe.github.io) <br>
+See [here](https://www.cs.sfu.ca/~tzwang/students.html) for more undergrads and visitors.
 
 ***Join us!*** - Checkout [here](https://www.cs.sfu.ca/~tzwang/prospective.html) for graduate studies in our lab.
