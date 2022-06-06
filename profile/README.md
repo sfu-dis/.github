@@ -2,7 +2,7 @@
 
 #### Welcome! 👋
 
-We work on research problems in data management, especially  database systems on modern hardware, new programming paradigms and emerging applications. Our current projects focus on transactional and analytical systems for persistent memory, next-generation storage devices, massively parallel processors and fast networks. We also contribute to related areas such as synchronization, operating systems and distributed systems while solving database systems problems.
+We work on research problems in data management on modern hardware, new programming paradigms and support for emerging applications. Our current projects focus on transactional and analytical systems for persistent memory, next-generation storage devices, massively parallel processors and fast networks. We also contribute to related areas such as synchronization, operating systems and distributed systems while solving database systems problems.
 
 Our lab is home to a series of open-source research prototypes being used by our peers, e.g., [PiBench](https://github.com/sfu-dis/pibench), [ERMIA](https://github.com/sfu-dis/ermia), [PMwCAS](https://github.com/microsoft/pmwcas) and implementations of [concurrent persistent memory indexes](https://github.com/sfu-dis/pibench-ep2). All of our work is open-source - check out the [repositories](https://github.com/orgs/sfu-dis/repositories) page to learn more! 
 
