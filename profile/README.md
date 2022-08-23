@@ -18,10 +18,10 @@ We are part of the [Data Science Research Group](https://data.cs.sfu.ca) in the 
 #### People:
 
 PI: [Tianzheng Wang](https://www.cs.sfu.ca/~tzwang), Assistant Professor at [SFU CS](https://www.cs.sfu.ca) <br>
-PhD Students: Tianxun Hu (since 2021) &nbsp;&mdash;&nbsp; [Kaisong Huang](https://kaisonghuang.github.io/) (since 2020) <br>
-Thesis MSc Students: George He (since 2021)  &nbsp;&mdash;&nbsp; Ziyi Yan (since 2021)  &nbsp;&mdash;&nbsp; Ge Shi (since 2021)<br>
-Visiting Students: [Baotong Lu (CUHK)](https://baotonglu.github.io/)  &nbsp;&mdash;&nbsp; [Mijin An (SKKU)](https://meeeejin.github.io/pages/about)  &nbsp;&mdash;&nbsp; Jonghyeok Park (SKKU)<br>
-Alumni: [Jianqiu Zhang (Software Engineer at ByteDance)](http://github.com/VOID001) &nbsp;&mdash;&nbsp; [Yongjun He (PhD Student at ETH Zurich)](https://yongjunhe.github.io) <br>
+PhD Students: Ziyi Yan (2021-), Tianxun Hu (2021-), [Kaisong Huang](https://kaisonghuang.github.io/) (2020-) <br>
+Thesis MSc Students: George He (2021-), Ge Shi (2021-)<br>
+Visiting Students: [Mijin An (SKKU, 2021-)](https://meeeejin.github.io/pages/about), [Baotong Lu (CUHK, 2019-)](https://baotonglu.github.io/), Jonghyeok Park (SKKU, 2019-)<br>
+Alumni: [Jianqiu Zhang (Software Engineer at ByteDance, 2021)](http://github.com/VOID001), [Yongjun He (PhD Student at ETH Zurich, 2021)](https://yongjunhe.github.io) <br>
 See [here](https://www.cs.sfu.ca/~tzwang/students.html) for more undergrads and visitors.
 
 ***Join us!*** - Checkout [here](https://www.cs.sfu.ca/~tzwang/prospective.html) for graduate studies in our lab.
