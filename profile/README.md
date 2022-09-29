@@ -18,7 +18,7 @@ We are part of the [Data Science Research Group](https://data.cs.sfu.ca) in the 
 #### People:
 
 PI: [Tianzheng Wang](https://www.cs.sfu.ca/~tzwang), Assistant Professor at [SFU CS](https://www.cs.sfu.ca) <br>
-PhD Students: Ziyi Yan (2021-), Tianxun Hu (2021-), [Kaisong Huang](https://kaisonghuang.github.io/) (2020-) <br>
+PhD Students: Ziyi Yan (2021-), [Tianxun Hu](https://laoawilliam.github.io/) (2021-), [Kaisong Huang](https://kaisonghuang.github.io/) (2020-) <br>
 Thesis MSc Students: George He (2021-), Ge Shi (2021-)<br>
 Visiting Students: [Mijin An (SKKU, 2021-)](https://meeeejin.github.io/pages/about), [Baotong Lu (CUHK, 2019-)](https://baotonglu.github.io/), Jonghyeok Park (SKKU, 2019-)<br>
 Alumni: [Jianqiu Zhang (Software Engineer at ByteDance, 2021)](http://github.com/VOID001), [Yongjun He (PhD Student at ETH Zurich, 2021)](https://yongjunhe.github.io) <br>
