@@ -10,9 +10,6 @@ Our work consistently appears in top-tier database conferences (VLDB/SIGMOD/CIDR
 
 Our lab is also home to a series of open-source research prototypes being used by our peers, e.g., [PiBench](https://github.com/sfu-dis/pibench), [ERMIA](https://github.com/sfu-dis/ermia), [PMwCAS](https://github.com/microsoft/pmwcas) and implementations of [concurrent persistent memory indexes](https://github.com/sfu-dis/pibench-ep2). All of our work is open-source - check out the [repositories](https://github.com/orgs/sfu-dis/repositories) page to learn more! 
 
-
-
-
 We are part of the [Data Science Research Group](https://data.cs.sfu.ca) in the [School of Computing Science](https://www.sfu.ca/computing.html) at [Simon Fraser University](https://www.sfu.ca/) in [Metro Vancouver](https://en.wikipedia.org/wiki/Greater_Vancouver), Canada. 
 
 #### People:
@@ -21,7 +18,7 @@ PI: [Tianzheng Wang](https://www.cs.sfu.ca/~tzwang), Assistant Professor at [SFU
 PhD Students: Ziyi Yan (2021-), [Tianxun Hu](https://laoawilliam.github.io/) (2021-), [Kaisong Huang](https://kaisonghuang.github.io/) (2020-) <br>
 Thesis MSc Students: George He (2021-), Ge Shi (2021-)<br>
 Visiting Students: [Mijin An (SKKU, 2021-)](https://meeeejin.github.io/pages/about), [Baotong Lu (CUHK, 2019-)](https://baotonglu.github.io/), Jonghyeok Park (SKKU, 2019-)<br>
-Alumni: [Jianqiu Zhang (Software Engineer at ByteDance, 2021)](http://github.com/VOID001), [Yongjun He (PhD Student at ETH Zurich, 2021)](https://yongjunhe.github.io) <br>
+Alumni: [Jianqiu Zhang](http://github.com/VOID001) (2021) &#8594; Software Engineer at ByteDance, 2021; [Yongjun He](https://yongjunhe.github.io) (2021) &#8594; PhD Student at ETH Zurich. <br>
 See [here](https://www.cs.sfu.ca/~tzwang/students.html) for more undergrads and visitors.
 
 ***Join us!*** - Checkout [here](https://www.cs.sfu.ca/~tzwang/prospective.html) for graduate studies in our lab.
