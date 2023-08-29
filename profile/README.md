@@ -15,5 +15,5 @@ We are part of the [Data Science Research Group](https://data.cs.sfu.ca) in the 
 #### People:
 
 PI: [Tianzheng Wang](https://www.cs.sfu.ca/~tzwang), Assistant Professor at [SFU CS](https://www.cs.sfu.ca) <br>
-Current PhD Students: Ziyi Yan (2021-), [Tianxun Hu](https://laoawilliam.github.io/) (2021-), [Kaisong Huang](https://kaisonghuang.github.io/) (2020-) <br>
+Current PhD Students: [Ziyi Yan](https://ziyi-yan.github.io/) (2021-), [Tianxun Hu](https://laoawilliam.github.io/) (2021-), [Kaisong Huang](https://kaisonghuang.github.io/) (2020-) <br>
 See [here](https://www.cs.sfu.ca/~tzwang/students.html) for undergrads, visitors and alumni.
