@@ -17,6 +17,6 @@ With the help from SFU Advancement & Alumni Engagement, now you can also support
 
 #### People:
 
-PI: [Tianzheng Wang](https://www.cs.sfu.ca/~tzwang), Assistant Professor at [SFU CS](https://www.cs.sfu.ca) <br>
+PI: [Tianzheng Wang](https://www.cs.sfu.ca/~tzwang), Associate Professor at [SFU CS](https://www.cs.sfu.ca) <br>
 Current PhD Students: [Jiatang Zhou](https://daolinzhou.github.io/JiatangZhou/) (2024-), [Ziyi Yan](https://ziyi-yan.github.io/) (2021-), [Tianxun Hu](https://laoawilliam.github.io/) (2021-), [Kaisong Huang](https://kaisonghuang.github.io/) (2020-) <br>
 See [here](https://www.cs.sfu.ca/~tzwang/students.html) for undergrads, visitors and alumni.
