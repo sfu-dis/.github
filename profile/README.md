@@ -13,7 +13,7 @@ Our lab is also home to a series of open-source research prototypes that receive
 We are part of the [Data Science Research Group](https://data.cs.sfu.ca) in the [School of Computing Science](https://www.sfu.ca/computing.html) at [Simon Fraser University](https://www.sfu.ca/) in Metro Vancouver, Canada. 
 
 #### Support us
-With the help from SFU Advancement & Alumni Engagement, now you can also support our work [by donations](https://give.sfu.ca/ways-to-give/fund/data-intensive-systems-research-lab)! 
+With the help from SFU Advancement & Alumni Engagement, now you can also support our work [by donations]([https://give.sfu.ca/ways-to-give/fund/data-intensive-systems-research-lab](https://donate.sfu.ca/page/163375/donate/1?transaction.dirgift=Data-Intensive%20Systems%20Lab&transaction.othamt2=DATAINTLAB&_gl=1*1mt0j7w*_gcl_au*MjA0NjMyMzQ4Mi4xNzQxMTI3MjA3*_ga*MTQ5OTQzODAyLjE2Njc1MzY1MDY.*_ga_R4BCVYL1QF*MTc0NTA1NDA2MC4zMDMuMS4xNzQ1MDU0NzMxLjQ4LjAuMA..))! 
 
 #### People:
 
