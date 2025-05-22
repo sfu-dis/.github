@@ -18,5 +18,5 @@ With the help from SFU Advancement & Alumni Engagement, now you can also support
 #### People:
 
 PI: [Tianzheng Wang](https://www.cs.sfu.ca/~tzwang), Associate Professor at [SFU CS](https://www.cs.sfu.ca) <br>
-Current Grad Students: Mohamed Farouk Drira (2025-), [Jiatang Zhou](https://jiatangz.github.io/) (2024-), [Ziyi Yan](https://ziyi-yan.github.io/) (2021-), [Tianxun Hu](https://laoawilliam.github.io/) (2021-), [Kaisong Huang](https://kaisonghuang.github.io/) (2020-) <br>
+Current Grad Students: Mohamed Farouk Drira (2025-), [Jiatang Zhou](https://jiatangz.github.io/) (2024-), [Ziyi Yan](https://ziyi-yan.github.io/) (2021-), [Tianxun Hu](https://laoawilliam.github.io/) (2021-) <br>
 See [here](https://www.cs.sfu.ca/~tzwang/students.html) for undergrads, visitors and alumni.
