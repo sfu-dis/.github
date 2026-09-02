@@ -1,5 +1,3 @@
-
-
 #### Welcome! 👋
 
 We work on database systems on modern hardware, new programming paradigms and support for emerging applications. We also contribute to related areas such as synchronization, operating systems and distributed systems while solving database systems problems. 
@@ -11,9 +9,6 @@ Our work consistently appears in top-tier database conferences (VLDB/SIGMOD/CIDR
 Our lab is also home to a series of open-source research prototypes that received major awards (e.g., [SIGMOD 2025 Best Paper Award](https://2025.sigmod.org/sigmod_awards.shtml), [ACM SIGMOD Research Highlights](https://sigmod.org/sigmod-awards/sigmod-research-highlights/) 2021, 2023) and are being used by our peers, e.g., [CoroBase](https://github.com/sfu-dis/corobase), [PiBench](https://github.com/sfu-dis/pibench), [ERMIA](https://github.com/sfu-dis/ermia), [PMwCAS](https://github.com/microsoft/pmwcas) and [index implementations](https://github.com/sfu-dis/pibench-ep2). All of our work is open-source here.
 
 We are part of the [Data Science Research Group](https://data.cs.sfu.ca) in the [School of Computing Science](https://www.sfu.ca/computing.html) at [Simon Fraser University](https://www.sfu.ca/) in Metro Vancouver, Canada. 
-
-#### Support us
-With the help from SFU Advancement & Alumni Engagement, now you can also support our work [by donations](https://donate.sfu.ca/page/163375/donate/1?transaction.dirgift=Data-Intensive%20Systems%20Lab&transaction.othamt2=DATAINTLAB&_gl=1*1mt0j7w*_gcl_au*MjA0NjMyMzQ4Mi4xNzQxMTI3MjA3*_ga*MTQ5OTQzODAyLjE2Njc1MzY1MDY.*_ga_R4BCVYL1QF*MTc0NTA1NDA2MC4zMDMuMS4xNzQ1MDU0NzMxLjQ4LjAuMA..)! 
 
 #### People:
 
