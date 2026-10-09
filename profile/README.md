@@ -9,6 +9,7 @@ Our work consistently appears in top-tier database conferences (VLDB/SIGMOD/CIDR
 Our lab is also home to a series of open-source research prototypes that received major awards (e.g., [SIGMOD 2025 Best Paper Award](https://2025.sigmod.org/sigmod_awards.shtml), [ACM SIGMOD Research Highlights](https://sigmod.org/sigmod-awards/sigmod-research-highlights/) 2021, 2023) and are being used by our peers, e.g., [CoroBase](https://github.com/sfu-dis/corobase), [PiBench](https://github.com/sfu-dis/pibench), [ERMIA](https://github.com/sfu-dis/ermia), [PMwCAS](https://github.com/microsoft/pmwcas) and [index implementations](https://github.com/sfu-dis/pibench-ep2). All of our work is open-source here.
 
 We are part of the [Data Science Research Group](https://data.cs.sfu.ca) in the [School of Computing Science](https://www.sfu.ca/computing.html) at [Simon Fraser University](https://www.sfu.ca/) in Metro Vancouver, Canada. 
+💥 We will be moving to the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the [University of Waterloo](https://www.uwaterloo.ca/) in Jan 2027.
 
 #### People:
 
